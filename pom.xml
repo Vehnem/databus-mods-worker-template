@@ -19,7 +19,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://vehnem:5525b2d9266d832f33734f9555d0fd1246fafe93@maven.pkg.github.com/vehnem/maven-repo</url>
+            <url>maven.pkg.github.com/dbpedia/databus-mods/</url>
         </repository>
     </repositories>
 
